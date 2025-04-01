@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 🌱my skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,react,java,visualstudio,vscode,aws,discord)](https://skillicons.dev)
+
 <!--
 **kentem-ko-suzuki/kentem-ko-suzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
