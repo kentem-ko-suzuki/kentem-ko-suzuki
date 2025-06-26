@@ -1,3 +1,10 @@
+## Hi there 👋
+
+## 🌱my skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,react,java,visualstudio,vscode,aws,discord)](https://skillicons.dev)
+
+---
+
 # VideoSharingWebsite
 
 ## 概要
@@ -30,4 +37,19 @@ dotnet run
 ```
 
 ---
-今後、Azureとの連携や動画アップロード機能などを追加予定です。 
+今後、Azureとの連携や動画アップロード機能などを追加予定です。
+
+<!--
+**kentem-ko-suzuki/kentem-ko-suzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
